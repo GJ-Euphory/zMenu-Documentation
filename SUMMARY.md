@@ -1,34 +1,34 @@
-# Table of contents
+# Tabla de contenidos
 
-* [Getting started](README.md)
-* [Supported Plugins](supported-plugins.md)
+* [Empecemos](README.md)
+* [Plugins Soportados](supported-plugins.md)
 
-## Configurations
+## Configuraciones
 
-* [Informations](configurations/informations.md)
-* [Commands and Permissions](configurations/commands-and-permissions.md)
-* [PlaceHolder](configurations/placeholder.md)
-* [How to create an inventory step by step](configurations/how-to-create-an-inventory-step-by-step.md)
-* [Inventories](configurations/inventories.md)
-* [Buttons](configurations/buttons/README.md)
-  * [Requirements](configurations/buttons/requirements.md)
-  * [Actions](configurations/buttons/actions.md)
+* [Informaciones](configurations/informations.md)
+* [Comandos y Permisos](configurations/commands-and-permissions.md)
+* [Variables](configurations/placeholder.md)
+* [Como crear un inventario paso a paso](configurations/how-to-create-an-inventory-step-by-step.md)
+* [Inventarios](configurations/inventories.md)
+* [Botones](configurations/buttons/README.md)
+  * [Requerimientos](configurations/buttons/requirements.md)
+  * [Acciones](configurations/buttons/actions.md)
 * [Items](configurations/items.md)
-* [Patterns](configurations/patterns.md)
-* [Commands](configurations/commands.md)
+* [Patrones](configurations/patterns.md)
+* [Comandos](configurations/commands.md)
 * [Player data](configurations/player-data.md)
 * [Config.json](configurations/config.json.md)
 
 ## API
 
-* [Informations](api/informations.md)
-* [Create Button](api/create-button.md)
-* [Create Material Loader](api/create-material-loader.md)
-* [Create ButtonOption](api/create-buttonoption.md)
-* [Load Inventory](api/load-inventory.md)
-* [Fast Events](api/fast-events.md)
+* [Informaciones](api/informations.md)
+* [Crear botón](api/create-button.md)
+* [Crear cargador de Materiales](api/create-material-loader.md)
+* [Crear botón de opción](api/create-buttonoption.md)
+* [Cargar Inventario](api/load-inventory.md)
+* [Eventos rápidos](api/fast-events.md)
 
 ***
 
-* [Plugin's files](plugins-files.md)
-* [Example GUI menus](example-gui-menus.md)
+* [Archivos Plugins](plugins-files.md)
+* [Ejemplos de Menu GUI](example-gui-menus.md)
