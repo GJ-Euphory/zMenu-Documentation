@@ -1,6 +1,6 @@
 # Tabla de contenidos
 
-* [Empezemos](README.md)
+* [Empecemos](README.md)
 * [Plugins Soportados](supported-plugins.md)
 
 ## Configuraciones
