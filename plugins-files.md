@@ -1,8 +1,8 @@
 ---
-description: The plugin's configuration files
+Descripción: Las configuraciones de archivos del plugin
 ---
 
-# Plugin's files
+# Archivos del Plugin
 
 ### Config.json
 
@@ -199,7 +199,7 @@ messages:
 
 ```
 
-## Inventories
+## Inventarios
 
 ### Basic\_Inventory.yml
 
@@ -870,7 +870,7 @@ items:
 
 ```
 
-## Commands
+## Comandos
 
 ### Commands.yml
 
@@ -999,7 +999,7 @@ commands:
               - "&7You will put a punishment to the player &f&n%target%&r &7with the reason&8: &f%reason%"
 ```
 
-## Patterns
+## Patrones
 
 ### Pattern\_example
 
